@@ -26,7 +26,7 @@ Attualmente sto costruendo competenze pratiche attraverso laboratori, simulazion
 
 ---
 
-## 🧪 Progetti
+## Progetti
 
 ### 🔸 CTF Writeups
 📁 Repo:   
@@ -49,12 +49,12 @@ Attualmente sto costruendo competenze pratiche attraverso laboratori, simulazion
 
 ---
 
-## 🏆 Certificazioni e Percorsi
+##  Certificazioni e Percorsi
 
 
 ---
 
-## 📊 Skill Tecniche
+## Skill Tecniche
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-268BFF?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -65,7 +65,7 @@ Attualmente sto costruendo competenze pratiche attraverso laboratori, simulazion
 
 ---
 
-## 📫 Contatti
+##  Contatti
 
 📧 melosco19912@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/carmelo-scotti-510904259/)  
