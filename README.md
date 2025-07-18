@@ -18,7 +18,7 @@ Attualmente sto costruendo competenze pratiche attraverso laboratori, simulazion
 
 ---
 
-## 🔐 Chi sono
+## Chi sono
 
 🎓 Laurea magistrale in Informatica, indirizzo Cybersecurity  
 💡 Appassionato di sicurezza offensiva e difensiva  
